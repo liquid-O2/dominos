@@ -35,8 +35,8 @@ section {
   height: fit-content;
 }
 img {
-  width: 25rem;
-  height: 25rem;
+  width: 20rem;
+  height: 20rem;
   object-fit: contain;
 }
 .image {
