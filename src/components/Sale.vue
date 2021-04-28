@@ -4,7 +4,7 @@
       <i class="fas fa-dollar-sign"> </i>
       <span> Pizzas On Sale Now</span>
     </div>
-    <div class="sectiontwo">
+    <div class="sectiontwo" id="pizzas">
       <!-- CARDS -->
       <div class="card">
         <div class="image">

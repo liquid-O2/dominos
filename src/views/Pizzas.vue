@@ -1,5 +1,18 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <PizzaTop />
+  <Sale />
 </template>
+
+<script>
+import PizzaTop from "../components/PizzaTop";
+import Sale from "../components/Sale";
+export default {
+  components: {
+    PizzaTop,
+    Sale,
+  },
+};
+</script>
+
+<style>
+</style>

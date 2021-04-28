@@ -4,7 +4,6 @@
   <Sale />
 
   <AboutUs />
-  <Footer />
 </template>
 
 <script>
@@ -12,14 +11,13 @@
 import Sale from "../components/Sale.vue";
 import Hero from "../components/Hero.vue";
 import AboutUs from "../components/AboutUs.vue";
-import Footer from "../components/Footer.vue";
+
 export default {
   name: "Home",
   components: {
     Sale,
     Hero,
     AboutUs,
-    Footer,
   },
 };
 </script>
